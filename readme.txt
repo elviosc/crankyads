@@ -8,7 +8,7 @@ Stable tag: 1.9.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-CrankyAds is a banner, text link and video ads rotator. It allows you to seamlessly sell ads on your site or run your own affiliate or AdWords ads.
+CrankyAds is a banner, text link and video ads rotator. It allows you to seamlessly sell ads on your site or run your own affiliate or AdSense ads.
 
 == Description ==
 
