@@ -1,7 +1,7 @@
 === CrankyAds ===
 Contributors: support@crankyads.com
 Donate link: http://www.crankyads.com/
-Tags: ad, ad rotation, adsense, advertise, banner ads, blog advertising, display banners, google adsense, make money, monetize, rotate banners, sell ads, sell banner ads, sell banners
+Tags: cranky ads, cranky, ads, ad, ad rotation, adsense, advertise, banner ads, blog advertising, display banners, google adsense, make money, monetize, rotate banners, sell ads, sell banner ads, sell banners
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.9.3.1
